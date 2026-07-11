@@ -127,7 +127,9 @@ Movie Recommendation System
 ├── templates/
 │   ├── home.html
 │   └── recommend.html
-│
+├── screenshorts/
+│   ├── homepage.png
+│   └── recommendpage.png
 ├── nlp_model.pkl
 ├── tranform.pkl
 ├── main.py
