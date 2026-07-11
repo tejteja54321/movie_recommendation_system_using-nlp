@@ -3,7 +3,7 @@
 # 🎬 AI Movie Recommendation System
 
 <p align="center">
-  <img src="static/homepage.png" alt="AI Movie Recommendation System Home" width="100%">
+  <img src="screenshot/homepage.png" alt="AI Movie Recommendation System Home" width="100%">
 </p>
 
 <p align="center">
@@ -132,7 +132,7 @@ Movie Recommendation System
 │   └── recommendpage.png
 ├── nlp_model.pkl
 ├── tranform.pkl
-├── main.py
+├── app.py
 ├── requirements.txt
 └── README.md
 ```
@@ -164,7 +164,7 @@ pip install -r requirements.txt
 ### Run Application
 
 ```bash
-python main.py
+python app.py
 ```
 
 ---
