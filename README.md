@@ -112,13 +112,6 @@ The homepage is designed to provide users with an engaging movie discovery exper
 
 ```text
 Movie Recommendation System
-│
-├── datasets/
-│   ├── movie.csv
-│   ├── movie_metadata.csv
-│   ├── final_data.csv
-│   └── main_data.csv
-│
 ├── static/
 │   ├── css/
 │   │     home.css
