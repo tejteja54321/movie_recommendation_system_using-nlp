@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="screenshot/homepage.png" alt="AI Movie Recommendation System Home" width="100%">
+   <img src="screenshot/recommendpage.png" alt="AI Movie Recommendation System Home" width="100%">
 </p>
 
 <p align="center">
